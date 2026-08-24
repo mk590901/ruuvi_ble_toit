@@ -1,7 +1,6 @@
 import ble
 import ntp
 import esp32 show adjust-real-time-clock
-import .periodic_timer
 import .ble_utils
 import .ruuvi_data
 
