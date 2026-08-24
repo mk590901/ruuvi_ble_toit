@@ -1,5 +1,8 @@
 # TOIT-MQTT-BLE-Ruuvi App
+
 Below is a description of an application written in __Toit__ allows to receive information from the Ruuvi Tag sensor and transmit it to any other application or group of applications using the __MQTT__.
+
+<img width="1204" height="1600" alt="ruuvi" src="https://github.com/user-attachments/assets/6f41619c-1e7b-45a1-83ef-a527a54c5549" />
 
 ## General Prerequisites
 
