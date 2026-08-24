@@ -61,7 +61,7 @@ Success: Sent 111KB code to 'midi' in 3.13s
 micrcx@micrcx-desktop:~/toit/ruuvi_ble$
 ```
 
-If necessary, you can launch the monitor to visually evaluate the application's operation, for example, in the case of ruuvi_ble:
+If necessary, you can launch the monitor to visually evaluate the application's operation, for example, in the case of __ruuvi_ble__:
 ```
 micrcx@micrcx-desktop:~/toit/ruuvi_ble$ jag monitor -p /dev/ttyACM1
 Starting serial monitor of port '/dev/ttyACM1' ...
