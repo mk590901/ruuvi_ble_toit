@@ -23,18 +23,20 @@ __Ruuvi Tags__ primarily use __BLE Advertising__ (beacon mode, one-to-many, conn
 ## Utilities
 * __ruuvi_data.toit__ - the __RuuviData__ class contains sensor parameters extracted from __Manufacturer Specific Data__. Note the parsing procedure: __update__.
 * __ble_utils.toit__ - contains two functions:
-- __time__ - represents time as a text string
-- __conv-to-mac-address__ - converts a MAC address as a ByteArray to a text string.
+      __time__ - represents __time__ __Toit__ class as a __string__
+      __conv-to-mac-address__ - converts a __MAC address as a ByteArray__ to a text __string__.
 
 ## Additional Packages
+
 The following packages must be installed for proper operation and launch of applications:
-...
+```
 jag pkg install github.com/toitlang/pkg-ntp@v1
 jag pkg install github.com/toitware/mqtt@v2
 jag pkg install github.com/toitware/toit-cert-roots@v1
 ```
 
 ## One-time application launch
+
 * ruuvi_ble:
 ```
 micrcx@micrcx-desktop:~/toit/ruuvi_ble$ jag run -d midi ruuvi_ble.toit
@@ -152,7 +154,6 @@ Scanning for device with name: 'ruuvi'
 Installing container 'sensor' from 'mqtt_ruuvi_ble.toit' on 'ruuvi' ...
 Success: Sent 111KB code to 'ruuvi' in 2.91s
 micrcx@micrcx-desktop:~/toit/ruuvi_ble$ 
-
 ```
 ## Three-party app
 
