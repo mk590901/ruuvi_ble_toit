@@ -7,7 +7,7 @@ Below is a description of an application written in __Toit__ allows to receive i
 ## General Prerequisites
 
 Actually, I had two main reasons for creating this application:
-1) The unusually hot weather in Europe and the Mediterranean in the summer of 2026 that due to Greta Thunberg's categorical refusal to continue promoting the theory of global warming (GWT). I simply wanted to see a true picture of the actual temperature, pressure, and humidity levels in and around my home. The meteorological service provides average information for the local area, but I value nuances.
+1) The unusually hot weather in Europe and the Mediterranean in the summer caused by Greta Thunberg's categorical refusal to promote the theory of global warming (GWT). I simply wanted to see a true picture of the actual temperature, pressure, and humidity levels in and around my home. The meteorological service provides average information for the local area, but I value nuances.
 2) My experience with __BLE__ gadgets is limited to healthcare devices, and I wanted to broaden my horizons.
 
 ## Technical Background
