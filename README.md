@@ -13,7 +13,7 @@ Actually, I had two main reasons for creating this application:
 
 ## Technical Background
 
-After some research, I settled on a temperature sensor from __Ruuvi__ (www.ruuvi.com). Bluetooth sensors like the __Ruuvi Tag__ are designed for monitoring temperature, humidity, and pressure in real time. More importantly, the company provides comprehensive information on the Ruuvi Tag BLE protocols: https://docs.ruuvi.com/communication/bluetooth-advertisements. This allows for the implementation of device identification and data access procedures for any platform. I'm interested the solving of the problem on __Toit language__ on the __ESP32-S3__ microcontroller. Maybe I'll was finally able to satisfy my curiosity.
+After some research, I settled on a temperature sensor from __Ruuvi__ (www.ruuvi.com). Bluetooth sensors like the __Ruuvi Tag__ are designed for monitoring temperature, humidity, and pressure in real time. More importantly, the company provides comprehensive information on the __Ruuvi Tag__ __BLE__ protocols: https://docs.ruuvi.com/communication/bluetooth-advertisements. This allows for the implementation of device identification and data access procedures for any platform. I'm interested the solving of the problem on __Toit language__ on the __ESP32-S3__ microcontroller. Maybe I'll was finally able to satisfy my curiosity.
 
 ## Main Protocols (Broadcast Advertisement Formats)
 
