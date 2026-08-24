@@ -5,7 +5,6 @@ import monitor
 import encoding.json
 import esp32 show mac-address
 import esp32 show adjust-real-time-clock
-import .periodic_timer
 import .ble_utils
 import .ruuvi_data
 
