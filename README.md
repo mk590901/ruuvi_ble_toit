@@ -161,7 +161,7 @@ micrcx@micrcx-desktop:~/toit/ruuvi_ble$
 ```
 ## Three-party app
 
-Hereinafter, a short video demonstrating the __GUI__ app's operation, displaying sensor information:
+Hereinafter, a short video demonstrating the __GUI__ app's (https://github.com/mk590901/remote_mqtt_ruuvi) operation, displaying sensor information:
 
 https://github.com/user-attachments/assets/4cddfbdd-0ed0-47fd-97c1-e88869990d88
 
