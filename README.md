@@ -27,7 +27,7 @@ __Ruuvi Tags__ primarily use __BLE Advertising__ (beacon mode, one-to-many, conn
 ## Utilities
 * __ruuvi_data.toit__ - the __RuuviData__ class contains sensor parameters extracted from __Manufacturer Specific Data__. Note the parsing procedure: __update__.
 * __ble_utils.toit__ - contains two functions:
-      __time__ - represents __time__ __Toit__ class as a __string__
+      __time__ - represents __time__ __Toit__ class as a __string__ and 
       __conv-to-mac-address__ - converts a __MAC address as a ByteArray__ to a text __string__.
 
 ## Additional Packages
